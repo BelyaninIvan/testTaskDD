@@ -1,6 +1,6 @@
+@import url('../vendor/normalize.css');
 @import url('../blocks/body/body.css');
 @import url('../blocks/body/_theme/body_theme_dark.css');
-@import url('../vendor/normalize.css');
 @import url('../blocks/page/page.css');
 @import url('../blocks/page/__button/page__button.css');
 @import url('../blocks/page/__button/_hide/page__button_hide.css');
