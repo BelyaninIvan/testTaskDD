@@ -60,6 +60,3 @@ const cardDate = document.querySelectorAll('.card__date');
 cardDate.forEach((item) => {
     item.textContent = getDayInfo(new Date());
 })
-
-console.log(getDayInfo(new Date()));
-console.log(parseInt(31/7));
