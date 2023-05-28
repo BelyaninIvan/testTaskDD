@@ -1,0 +1,19 @@
+.categories__name {
+    margin: 0;
+    padding: 0;
+    padding-bottom: 13px;
+    text-decoration: none;
+
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #282828;
+    text-transform: uppercase;
+    border-bottom: 2px solid #D4D4D4;
+    transition: all ease-in 0.2s;
+}
+
+.categories__name:hover {
+    color: #0499DD;
+    border-bottom: 2px solid #0499DD;
+}

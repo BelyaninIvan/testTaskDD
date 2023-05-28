@@ -1,0 +1,7 @@
+.modal__radio-text {
+    margin-left: 5px;
+}
+
+.modal__radio-text:not(:last-child) {
+    margin-right: 20px;
+}

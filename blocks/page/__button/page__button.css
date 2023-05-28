@@ -1,0 +1,23 @@
+.page__button {
+    position: fixed;
+    right: 15px;
+    bottom: 15px;
+    margin: 0;
+    border: 0;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    box-sizing: border-box;
+    background: linear-gradient(92.71deg, #0499DD 0%, #17C1BC 100%);
+    border-radius: 50%;
+
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 17px;
+    color: #FFFFFF;
+    transition: all ease-in 0.9s;
+}
+
+.page__button:hover {
+    opacity: 0.7;
+}

@@ -1,0 +1,48 @@
+@import url('../blocks/body/body.css');
+@import url('../blocks/body/_theme/body_theme_dark.css');
+@import url('../vendor/normalize.css');
+@import url('../blocks/page/page.css');
+@import url('../blocks/page/__button/page__button.css');
+@import url('../blocks/page/__button/_hide/page__button_hide.css');
+@import url('../blocks/button/button.css');
+@import url('../blocks/link/link.css');
+
+@import url('../blocks/categories/categories.css');
+@import url('../blocks/categories/__list/categories__list.css');
+@import url('../blocks/categories/__item/categories__item.css');
+@import url('../blocks/categories/__name/categories__name.css');
+@import url('../blocks/categories/__button/categories__button.css');
+@import url('../blocks/categories/_theme/categories_theme_dark.css');
+
+@import url('../blocks/content/content.css');
+@import url('../blocks/category/category.css');
+@import url('../blocks/category/__name/category__name.css');
+@import url('../blocks/categories/__name/_theme/categories__name_theme_dark.css');
+@import url('../blocks/category/__list/category__list.css');
+@import url('../blocks/category/__item/category__item.css');
+
+@import url('../blocks/card/card.css');
+@import url('../blocks/card/__img/card__img.css');
+@import url('../blocks/card/__title/card__title.css');
+@import url('../blocks/card/__date/card__date.css');
+@import url('../blocks/card/__btn/card__btn.css');
+@import url('../blocks/card/_theme/card_theme_dark.css');
+@import url('../blocks/card/__title/_theme/card__title_theme_dark.css');
+
+@import url('../blocks/navigation/navigation.css');
+@import url('../blocks/navigation/__nav/navigation__nav.css');
+@import url('../blocks/navigation/__list/navigation__list.css');
+@import url('../blocks/navigation/__item/navigation__item.css');
+@import url('../blocks/navigation/__link/navigation__link.css');
+@import url('../blocks/navigation/__link/_theme/navigation__link_theme_dark.css');
+
+@import url('../blocks/modal/modal.css');
+@import url('../blocks/modal/_opened/modal_opened.css');
+@import url('../blocks/modal/__container/modal__container.css');
+@import url('../blocks/modal/__title/modal__title.css');
+@import url('../blocks/modal/__form/modal__form.css');
+@import url('../blocks/modal/__radio/modal__radio.css');
+@import url('../blocks/modal/__radio-text/modal__radio-text.css');
+@import url('../blocks/modal/__input-text/modal__input-text.css');
+@import url('../blocks/modal/__form-input/modal__form-input.css');
+@import url('../blocks/modal/__form-button/modal__form-button.css');
